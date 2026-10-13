@@ -13,16 +13,16 @@ The dashboard provides insights into sales, profit, customers, and products usin
 ### 📸 Dashboard Preview
 
 #### 1. Executive Summary
-![Executive Summary](Screenshots-dashboard/IMAGE_NAME_1.jpg)
+![Executive Summary](Screenshots-dashboard/1-Executive-summary.jpg)
 
 #### 2. Sales Analysis
-![Sales Map](Screenshots-dashboard/IMAGE_NAME_2.jpg)
+![Sales Map](Screenshots-dashboard/2-sales-map.jpg)
 
 #### 3. Product Details
-![Product](Screenshots-dashboard/IMAGE_NAME_3.jpg)
+![Product](Screenshots-dashboard/3-product-details.jpg)
 
 #### 4. Customer Insights
-![Customer](Screenshots-dashboard/IMAGE_NAME_4.jpg)
+![Customer](Screenshots-dashboard/4-customer-insights.jpg)
 
 ### 📂 Files in this Repo
 - `Portfolio-version.pbix` - Complete Power BI file
